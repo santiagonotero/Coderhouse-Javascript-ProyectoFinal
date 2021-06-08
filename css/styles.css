@@ -1,0 +1,81 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    margin-bottom: 2px;
+    margin-top:  6px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+    text-align: left;
+}
+
+li {
+    list-style:none;
+    align-content: flex-end;
+}
+
+.container {
+
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.cabecera {
+
+    background-color: #F1C133;
+    height: 100px;
+    vertical-align:auto;
+
+}
+
+.cuerpo {
+    background-color: #F1C133;
+    vertical-align: middle;
+    margin-bottom: 0px;
+}
+
+.formulario{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.textoIzq {
+    text-align: left;
+}
+
+
+.textoDer {
+    text-align: right;
+}
+
+#sinPaquetes {
+    text-align: center;
+    height: 80px;
+}
+
+.site-footer {
+
+    border-bottom: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.pieDePagina {
+
+    background-color:lightgrey;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+#botonEnviar {
+    padding: 30px;
+}
+
+#botonPago{
+    margin: 30px;
+}
+
