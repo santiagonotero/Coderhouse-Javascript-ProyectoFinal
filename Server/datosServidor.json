@@ -1,0 +1,43 @@
+[{
+
+    "PesoMinimo": "0",
+    "PesoMaximo": "1",
+    "PrecioRegional": "505",
+    "PrecioNacional": "700"
+  },
+  {
+  
+    "PesoMinimo": "2",
+    "PesoMaximo": "5",
+    "PrecioRegional": "610",
+    "PrecioNacional": "865"
+  },
+  {
+  
+    "PesoMinimo": "6",
+    "PesoMaximo": "10",
+    "PrecioRegional": "770",
+    "PrecioNacional": "1150"
+  },
+  {
+  
+    "PesoMinimo": "11",
+    "PesoMaximo": "15",
+    "PrecioRegional": "935",
+    "PrecioNacional": "1420"
+  },
+  {
+  
+    "PesoMinimo": "16",
+    "PesoMaximo": "20",
+    "PrecioRegional": "1125",
+    "PrecioNacional": "1660"
+  },
+  {
+  
+    "PesoMinimo": "21",
+    "PesoMaximo": "25",
+    "PrecioRegional": "1360",
+    "PrecioNacional": "1990"
+  }
+  ]
